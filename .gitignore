@@ -205,5 +205,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
-/seance2/game_of_life_correction.ipynb
